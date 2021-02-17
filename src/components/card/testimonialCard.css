@@ -1,0 +1,15 @@
+.card{
+    margin: 5em;
+    border: solid 4px #000;
+    border-radius: 15px;
+}
+.card-image{
+    margin: 2em 0em;
+    text-align: center;
+}
+.card-body{
+    text-align: center;
+}
+.card-image-post{
+    border-radius: 50%;
+}
